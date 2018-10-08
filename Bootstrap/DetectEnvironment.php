@@ -1,6 +1,6 @@
 <?php namespace Illuminate\Foundation\Bootstrap;
 
-use Dotenv;
+use Dotenv\Dotenv;
 use InvalidArgumentException;
 use Illuminate\Contracts\Foundation\Application;
 
