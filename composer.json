@@ -28,7 +28,7 @@
             "src/Illuminate/Foundation/helpers.php"
         ],
         "psr-4": {
-            "Illuminate\\Foundation\\": "src/Illuminate/Foundation"
+            "Illuminate\\Foundation\\": ""
         }
     },
     "extra": {
